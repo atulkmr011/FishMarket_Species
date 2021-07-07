@@ -33,7 +33,7 @@ This repo consists of following files:
 
 2: App.py : Flask based main app to deploy/run.
 
-3: Fish_Jupyter.ipynb : Jupyter file for EDA/ Model evaluation/ Saving Model.
+3: Fish_Jupyter.ipynb : Jupyter file for EDA/ Model Building / Model evaluation/ Saving Model.
 
 4: Procfile: For Heroku deployment.
 
@@ -50,7 +50,7 @@ This repo consists of following files:
 
 3: Run the App.py file and file will run in your local system at "http://127.0.0.1:5000/".
 
-4: Open the brou=wser and go to "http://127.0.0.1:5000/". 
+4: Open the browser and go to "http://127.0.0.1:5000/". 
 
 5: Web app will run in your browser .
 
