@@ -29,7 +29,7 @@ Random Forest Model
 # About this Repo:
 This repo consists of following files:
 
-1: static/css , Template :for web app.
+1: static/css , Template: Used for web app.
 
 2: App.py : Flask based main app to deploy/run.
 
